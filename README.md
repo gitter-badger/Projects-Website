@@ -13,6 +13,7 @@
 5. [Links from readme](#links)
 6. [Ideas](#ideas)
 7. [Guides](#guides)
+8. [Credits](#credits)
 
 ## <a name="Introduction"></a>Introduction
 
@@ -60,3 +61,5 @@ This section is the badges resources, badges for this readme, and the package I 
 ## <a name="ideas"></a>Ideas
 
 ## <a name="guides"></a>Guides
+
+## <a name="credits"></a>Credits
