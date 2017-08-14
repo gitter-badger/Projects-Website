@@ -4,12 +4,15 @@
 1. [Introduction](#Introduction)
 3. [TODO](#TODO)
     - [Projects to add](#projects)
-    - Styling
-    - Badges
-4. Screen shots
-5. Links from readme
-6. Ideas
-7. Guides
+    - [Styling](#styling)
+    - [Badges](#badges)
+        - [readme badges](#readme_badges)
+        - [packages](#packages)
+        - [resources](#resources)
+4. [Screen shots](#screenshots)
+5. [Links from readme](#links)
+6. [Ideas](#ideas)
+7. [Guides](#guides)
 
 ## <a name="Introduction"></a>Introduction
 
@@ -31,14 +34,29 @@ Stores is a game I created with the help of @Goredbirds. It was the first game I
 
 FILEPLAN is one of the best games I have ever made even though it is still in progress, it is really fun to play.
 
-### Styling
+### <a name="styling"></a>Styling
+The game has literally no styling right now, so I should add some.
 
-### Badges
+### <a name="badges"></a>Badges
+This section is the badges resources, badges for this readme, and the package I use for this readme
 
-## Screen shots
+##### <a name="readme_badges"></a>readme badges
+[![GitHub](https://img.shields.io/github/issues/StevenCopeland/Projects-Website.svg?style=flat-square)](https://github.com/StevenCopeland/Projects-Website/issues)
+[![GitHub](https://img.shields.io/github/stars/StevenCopeland/Projects-Website.svg?style=flat-square)](https://github.com/StevenCopeland/Projects-Website)
+[![GitHub](https://img.shields.io/github/forks/StevenCopeland/Projects-Website.svg?style=flat-square)](https://github.com/StevenCopeland/Projects-Website/network)
 
-## Links form readme
+##### <a name="packages"></a>packages
+[badges package](https://atom.io/packages/badges)
 
-## Ideas
+##### <a name="resources"></a>resources
+[shield.io](http://shields.io/)
 
-## Guides
+[Github:buttons](https://buttons.github.io/)
+
+## <a name="screenshots"></a>Screen shots
+
+## <a name="links"></a>Links form readme
+
+## <a name="ideas"></a>Ideas
+
+## <a name="guides"></a>Guides
