@@ -55,11 +55,16 @@ This section is the badges resources, badges for this readme, and the package I 
 [Github:buttons](https://buttons.github.io/)
 
 ## <a name="screenshots"></a>Screen shots
+A screen shot of the website
 
 ## <a name="links"></a>Links form readme
+Useful links from sites.
 
 ## <a name="ideas"></a>Ideas
+A place were I post my ideas
 
 ## <a name="guides"></a>Guides
+Useful guides I used on the way to success!
 
 ## <a name="credits"></a>Credits
+People, companies, and websites credited in the progress of creating this website.
