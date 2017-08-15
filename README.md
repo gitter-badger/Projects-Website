@@ -1,5 +1,7 @@
 # Projects-Website
 
+[![Join the chat at https://gitter.im/Projects-Website/Lobby](https://badges.gitter.im/Projects-Website/Lobby.svg)](https://gitter.im/Projects-Website/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Table of Contents
 1. [Introduction](#Introduction)
 3. [TODO](#TODO)
